@@ -1,0 +1,11 @@
+/* CSS declarations go here */
+
+h1 {
+  color: blue;
+}
+
+.preserve {
+  color: red;
+  font-weight: bold;
+  font-size: 1.3em;
+}
